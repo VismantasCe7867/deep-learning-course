@@ -13,7 +13,7 @@ Use this example to draw your Tables
 
 | Name | Value | Description |
 |------|-------|-------------|
-| Georgios | Sep. 2018 | kaimo jurgis žinoma |
+| Vismantas | Oct. 2019 | Dank Memer |
 
 ## Text highlights
 
